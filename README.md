@@ -50,9 +50,9 @@ Ensure the following tools are installed on your local machine:
 ## Sample MERN Application
 This project was used for a sample MERN (MongoDB, Express.js, React, Node.js) application. You can integrate your own MERN app by following these steps:
 
-Update the Dockerfile to include your MERN app's dependencies and start command.
-Deploy the MERN app by applying the Terraform configuration.
-Use the CI/CD workflows in the workflows/ folder to automate deployment.
+-Update the Dockerfile to include your MERN app's dependencies and start command.
+-Deploy the MERN app by applying the Terraform configuration.
+-Use the CI/CD workflows in the workflows/ folder to automate deployment.
 
 ## Usage Instructions
 
